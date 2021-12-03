@@ -50,3 +50,9 @@ Tested on:
 macOS Monterey 12.0.1
 Google Chrome 96.0.4664.55
 ```
+
+Tested by [rkbi](https://github.com/rkbi) on:
+```
+ArchLinux 5.15.5-arch1-1
+Firefox 94
+```
