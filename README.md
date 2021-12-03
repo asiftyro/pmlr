@@ -15,7 +15,7 @@ npm v8.1.0
 
 Setup:
 ```
-git clone
+git clone https://github.com/asiftyro/pmlr.git
 cd full/path/to/pmlr/dir
 npm i
 ```
